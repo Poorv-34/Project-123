@@ -14,14 +14,13 @@
     color: black;
     width: 100%;
     text-align: center;
-    bottom: 0px;
-    float: inline-end;
+    bottom: 0;
     background-color: darkorange;
     position: fixed;
 }
 
 canvas{
-    border: 5px black;
-    border-radius: 5px;
-    box-shadow: 5px 5px 5px black;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
 }
